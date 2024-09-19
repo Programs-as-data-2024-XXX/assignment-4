@@ -36,7 +36,16 @@ val it: int = 167731333
 ```
 
 ## Exercise 4.3
+Answers to this exercise can be found in the following files:
+- Absyn.fs
+- Fun.fs
 
 ## Exercise 4.4
+Answers to this exercise can be found in the following files:
+- FunPar.fsy
 
 ## Exercise 4.5
+Answers to this exercise can be found in the following files:
+- FunLex.fsl
+- FunPar.fsi
+- FunPar.fsy
