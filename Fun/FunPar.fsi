@@ -27,6 +27,7 @@ type token =
   | CSTBOOL of (bool)
   | NAME of (string)
   | CSTINT of (int)
+  (* Exercise 4.5 *)
   | AND
   | OR
 type tokenId = 
