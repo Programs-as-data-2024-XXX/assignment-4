@@ -27,6 +27,8 @@ type token =
   | CSTBOOL of (bool)
   | NAME of (string)
   | CSTINT of (int)
+  | AND
+  | OR
 type tokenId = 
     | TOKEN_EOF
     | TOKEN_LPAR
